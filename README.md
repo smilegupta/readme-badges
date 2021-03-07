@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/twitter/follow/smileguptaaa?label=Twitter&logo=twitter&style=for-the-badge" />
   </a>
   <a href="http://youtube.com/c/julioarruda?sub_confirmation=1">
-    <img src="https://img.shields.io/youtube/views/UCN45i8avHdOVqVVJMalx9tQ?label=YouTube&logo=YouTube&style=for-the-badge" />
+    <img src="https://img.shields.io/youtube/views/KSObxD557Tk?label=YouTube&logo=YouTube&style=for-the-badge" />
   </a>
 
 # Amazing Readme ( special ) Files
