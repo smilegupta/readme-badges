@@ -31,6 +31,10 @@ My favourite linear: **“If You Are A Techie, Your Home Page Should Be GitHub, 
 
  - 💌 [@guptamiley3012@gmail.com](mailto:guptamiley3012@gmail.com)
 
+
+###### dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
+
+
 ## GitHub Report Card
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=smilegupta&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Smile github stats" />
  
