@@ -33,4 +33,6 @@ My favourite linear: **“If You Are A Techie, Your Home Page Should Be GitHub, 
 
 ## GitHub Report Card
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=smilegupta&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Smile github stats" />
+ 
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=smilegupta&show_icons=true&hide_border=true" /> </td>
 
