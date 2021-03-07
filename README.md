@@ -1,6 +1,16 @@
-### Readme Badges
+# Readme Badges
 
-Amazing Readme ( special ) Files
+<a href="https://github.com/julioarruda?tab=followers">
+    <img src="https://img.shields.io/github/followers/smilegupta?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
+  </a>
+  <a href="http://twitter.com/julioarrudac">
+    <img src="https://img.shields.io/twitter/follow/smileguptaaa?label=Twitter&logo=twitter&style=for-the-badge" />
+  </a>
+  <a href="http://youtube.com/c/julioarruda?sub_confirmation=1">
+    <img src="https://img.shields.io/youtube/views/4BYlkYtHNus?label=YouTube&logo=YouTube&style=for-the-badge" />
+  </a>
+
+# Amazing Readme ( special ) Files
 
 ## Choice 1
 
