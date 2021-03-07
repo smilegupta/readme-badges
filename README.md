@@ -70,7 +70,7 @@ I like working on lots of projects in my spare time! There's a good chance on of
 
 I always enjoy connecting with folks! Please feel free to react out to me on Twitter [@smileguptaaa](https://twitter.com/smileguptaaa).
 
-###### dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
+###### Themes: material-palenight. dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
 
 ## Streak info
 
