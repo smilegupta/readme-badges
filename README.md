@@ -6,9 +6,10 @@
   <a href="http://twitter.com/julioarrudac">
     <img src="https://img.shields.io/twitter/follow/smileguptaaa?label=Twitter&logo=twitter&style=for-the-badge" />
   </a>
-  <a href="http://youtube.com/c/julioarruda?sub_confirmation=1">
+  <!-- <a href="http://youtube.com/c/julioarruda?sub_confirmation=1">
     <img src="https://img.shields.io/youtube/views/KSObxD557Tk?label=YouTube&logo=YouTube&style=for-the-badge" />
-  </a>
+  </a> -->
+  
 
 # Amazing Readme ( special ) Files
 
