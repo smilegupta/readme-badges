@@ -54,5 +54,5 @@ My favourite linear: **“If You Are A Techie, Your Home Page Should Be GitHub, 
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=smilegupta&repo=Say-Hello-to-React-js&theme=material-palenight" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=smilegupta&repo=Say-Hello-to-React-js/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=smilegupta&repo=Say-Hello-to-React-js" />
   
