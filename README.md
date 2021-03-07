@@ -72,6 +72,10 @@ I always enjoy connecting with folks! Please feel free to react out to me on Twi
 
 ###### dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
 
+## Streak info
+
+ <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=smilegupta&theme=material-palenight" />
+
 
 ## GitHub Report Card
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=smilegupta&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Smile github stats" />
