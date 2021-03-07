@@ -10,6 +10,8 @@
     <img src="https://img.shields.io/youtube/views/KSObxD557Tk?label=YouTube&logo=YouTube&style=for-the-badge" />
   </a> 
   
+  
+  [![Visitors](https://visitor-badge.glitch.me/badge?page_id=smilegupta.visitor-badge)](https://github.com/smilegupta)
 [![Facebook](https://img.shields.io/static/v1.svg?label=follow&message=@smileguptaaa&color=grey&logo=facebook&style=flat&logoColor=white&colorA=blue)](https://www.facebook.com/smileguptaaa)  [![Instagram](https://img.shields.io/static/v1.svg?label=follow&message=@smileguptaaa&color=grey&logo=instagram&style=flat&logoColor=white&colorA=blue)](https://www.instagram.com/smileguptaaa/) [![LinkedIn](https://img.shields.io/static/v1.svg?label=connect&message=@smilegupta&color=grey&logo=linkedin&style=flat&logoColor=white&colorA=blue)](https://www.linkedin.com/in/smilegupta/) [![Twitter](https://img.shields.io/static/v1.svg?label=connect&message=@smileguptaaa&color=grey&logo=twitter&style=flat&logoColor=white&colorA=blue)](https://twitter.com/smileguptaaa)
 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/smilegupta)
