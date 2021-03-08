@@ -1,8 +1,8 @@
 # Readme Badges
 
-<hr />
+
 ### Some Most Frequently Badges for the Readme files:
-<hr />
+
 
 <a href="https://github.com/julioarruda?tab=followers">
     <img src="https://img.shields.io/github/followers/smilegupta?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
@@ -36,6 +36,8 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/smileguptaaa)](https://twitter.com/smileguptaaa)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/smilegupta)](https://www.linkedin.com/in/smilegupta)
+
+<hr />
 
 
 
