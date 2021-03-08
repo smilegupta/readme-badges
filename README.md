@@ -1,6 +1,8 @@
 # Readme Badges
 
+<hr />
 ### Some Most Frequently Badges for the Readme files:
+<hr />
 
 <a href="https://github.com/julioarruda?tab=followers">
     <img src="https://img.shields.io/github/followers/smilegupta?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
