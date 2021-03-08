@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/github/followers/smilegupta?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
 </a>
 
-<a href="http://twitter.com/julioarrudac">
+<a href="http://twitter.com/smileguptaaa">
     <img src="https://img.shields.io/twitter/follow/smileguptaaa?label=Twitter&logo=twitter&style=for-the-badge" />
 </a>
 
@@ -53,6 +53,7 @@
 - 📫 How to reach me:  [LinkedIn](https://www.linkedin.com/in/smilegupta/)
 - 😄 Pronouns:  She/Her
 
+<hr />
 
 ###### Choice 2
 
@@ -72,6 +73,7 @@ My favourite linear: **“If You Are A Techie, Your Home Page Should Be GitHub, 
 
  - 💌 [@guptamiley3012@gmail.com](mailto:guptamiley3012@gmail.com)
 
+<hr />
 
 ###### Choice 3
 
@@ -92,6 +94,7 @@ I like working on lots of projects in my spare time! There's a good chance on of
 I always enjoy connecting with folks! Please feel free to react out to me on Twitter [@smileguptaaa](https://twitter.com/smileguptaaa).
 
 
+<hr />
 
 
 ### Readme for a Project
@@ -130,7 +133,8 @@ Wonder How we can make an application to track the consumption of water 💦  us
 
 [![Facebook](https://img.shields.io/static/v1.svg?label=follow&message=@smileguptaaa&color=grey&logo=facebook&style=flat&logoColor=white&colorA=blue)](https://www.facebook.com/smileguptaaa)  [![Instagram](https://img.shields.io/static/v1.svg?label=follow&message=@smileguptaaa&color=grey&logo=instagram&style=flat&logoColor=white&colorA=blue)](https://www.instagram.com/smileguptaaa/) [![LinkedIn](https://img.shields.io/static/v1.svg?label=connect&message=@smilegupta&color=grey&logo=linkedin&style=flat&logoColor=white&colorA=blue)](https://www.linkedin.com/in/smilegupta/) [![Twitter](https://img.shields.io/static/v1.svg?label=connect&message=@smileguptaaa&color=grey&logo=twitter&style=flat&logoColor=white&colorA=blue)](https://twitter.com/smileguptaaa)
 
-  
+ 
+ <hr />
  
 ### Readme for a Some Information about Series
 
@@ -259,6 +263,8 @@ The PR with correct and optimised solution, which satisfies the deadline criteri
 ###### Content Courtesy Smile Gupta
 
 <hr />
+
+
 ### Displaying the Streak info
 
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=smilegupta&theme=material-palenight" />
@@ -288,5 +294,5 @@ The PR with correct and optimised solution, which satisfies the deadline criteri
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=smilegupta&repo=Say-Hello-to-React-js" />
 
 
-
+###### Themes for the cards ( Displaying the streak info, Report card, Most Languages Used, Pining Readme to the readme file) : material-palenight. dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
 
